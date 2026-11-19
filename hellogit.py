@@ -1,1 +1,1 @@
-print("Hello Gitt")
+print("Hello Git master")
